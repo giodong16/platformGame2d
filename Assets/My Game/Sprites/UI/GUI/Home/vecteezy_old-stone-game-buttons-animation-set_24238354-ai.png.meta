@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: c424d4c921a05d54eaf44cf669ead934
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1377
+        width: 643
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d55f2dda63d14bbc90bef5cd4435e
+      internalID: 1692966855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1377
+        width: 642
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dffccb43ad7ca4e899fc9643c59705
+      internalID: -837431642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_2
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1377
+        width: 642
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11774e33455ee4b8442ef8a4d3caa6
+      internalID: 304513572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_3
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1377
+        width: 641
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2224c285d5f5bc4a8000c0768bc95b0
+      internalID: -412488482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1377
+        width: 641
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f14e20a9555944abf1e8bd648d55ae
+      internalID: 2013315392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1149
+        width: 643
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d2db5e847be340ae57b5a26931b07
+      internalID: 2075840020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1149
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251cd3599734664e8e756eb6e574051
+      internalID: -1151112968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_7
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1149
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db925b86061d174e9fd83168b20dd03
+      internalID: -2046001480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_8
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1149
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0efb2a0251c6948b73067597373382
+      internalID: -561591854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1149
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0f178f584d2e47a65ac01cab57f77
+      internalID: -1055168161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 922
+        width: 643
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eccb7ea87d54743a14f87779c6e084
+      internalID: -1535274137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 922
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b2c3cb667d73448e05408d70ae668
+      internalID: -43421458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 922
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf3dc594a04984dbe5baeaeb0ac348
+      internalID: -1674371105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_13
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 922
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033707a8dd31163448fc22033659894a
+      internalID: 1456428938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 922
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd10b33ac1bdec448f766df618ccf8b
+      internalID: 1461387068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 573
+        width: 643
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124311291a9a26c498b6625f64c465f9
+      internalID: -702126249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_16
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 573
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03924f38ed54ba04f83134d5d3adcba5
+      internalID: 1107049528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_17
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 573
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b72b8b6985424ba80ddea7519a44b
+      internalID: -151731311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_18
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 573
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba104120a0621ae40bd2aef7a0a54446
+      internalID: -252632553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 573
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def24ea566c543742bf94753a69fef2e
+      internalID: 943332407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 345
+        width: 643
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6676bd0f755cb4eb99addc42d5a54c
+      internalID: -923555726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_21
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 345
+        width: 642
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258fbf0e21f01d1448bafac2a3e53d06
+      internalID: -875449962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_22
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 345
+        width: 642
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc516f6d7647ae6459f8fcd974150956
+      internalID: 1803474366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_23
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 345
+        width: 641
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848065891992380438ab5eee9baeb580
+      internalID: -1415843305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 345
+        width: 641
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda539b7b33c3d4ab9b9c4aff0a36ac
+      internalID: 1153319902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 116
+        width: 643
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7a334166278445b87a015ee5ee18e
+      internalID: -826633165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 116
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ceb570314e33040ac2b943814f4145
+      internalID: 707436752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_27
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 116
+        width: 642
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ca89ac71126e4282bae0e57ce1a39
+      internalID: -771044215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_28
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 116
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5393cce10c72041ab634684008ba9f
+      internalID: 90885988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_old-stone-game-buttons-animation-set_24238354-ai_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 116
+        width: 641
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6f0523db41644abb468569fa076b0
+      internalID: -900413626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_0: 1692966855
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_1: -837431642
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_10: -1535274137
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_11: -43421458
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_12: -1674371105
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_13: 1456428938
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_14: 1461387068
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_15: -702126249
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_16: 1107049528
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_17: -151731311
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_18: -252632553
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_19: 943332407
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_2: 304513572
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_20: -923555726
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_21: -875449962
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_22: 1803474366
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_23: -1415843305
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_24: 1153319902
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_25: -826633165
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_26: 707436752
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_27: -771044215
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_28: 90885988
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_29: -900413626
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_3: -412488482
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_4: 2013315392
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_5: 2075840020
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_6: -1151112968
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_7: -2046001480
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_8: -561591854
+      vecteezy_old-stone-game-buttons-animation-set_24238354-ai_9: -1055168161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

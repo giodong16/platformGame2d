@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: bc98602da30f3344cbf0837c09a9e5e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILEMAPHD_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8eb943b9a5a74cb5599c546f4fdb6
+      internalID: -1655647085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc33a2027d69640b4b374b1e3d341f
+      internalID: -1160814765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6578cf29bbb0f7648b34dd0ddfb095ed
+      internalID: -762658376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43928d4a82bff144b6089342e2f0961
+      internalID: -762335021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40346ac7a62e4a54eba75584a6197a12
+      internalID: 1950089586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018533e48f87d14ea45a28893f385c4
+      internalID: 1162416049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b051bbf3b349ff41b6c61e08d1c113b
+      internalID: 1720859597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 768
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22b1166e8dfb34d905d7b1511543ae
+      internalID: -1428136012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 727
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c560d03e138d945a4dbb0731cd353b
+      internalID: 1212693663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 770
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a3312a82ceb24b9bbc4e10170bb70
+      internalID: -1473089899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 770
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1da871ba08284b956ef809e296492
+      internalID: 1163177932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 770
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd92e5b470695f4ea2e12a865d1aa2f
+      internalID: 429827669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 768
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ec23bcfaeb8b43b891902b61d5092
+      internalID: -24405668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 768
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7afb577e627f46899ecd11f91f6ec
+      internalID: 125668892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 768
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c372706dcb3a641ba0ba2c29076de0
+      internalID: -608372830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 691
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04aec00970f6c14f949c70f9cdea4b9
+      internalID: -162002752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 691
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3399490e790a194c8517507171c788d
+      internalID: -2103224299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_33
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 691
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf721871a371584b8ed101414c518b7
+      internalID: -1240146429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 691
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6d8b49722ada4e8b05524a85d8b05
+      internalID: 427519693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e281dfce38cf41a783062871be65f
+      internalID: 1992795742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cf54c33563ed42859fedeb87d5e79
+      internalID: 628276711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab70cf7e7b9d7c44b9b7a9d9a36edb0
+      internalID: -192575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3988dfab07cc40a81e82804670503
+      internalID: -655963159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e640fe51884a92c44a33e3cd2afee605
+      internalID: -213318632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970b2cc49eb80e4fa73479ecc72eef9
+      internalID: -1714555181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644575f465ab1164c8407e2efce0adee
+      internalID: 1737652523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1cb85faf47a3240a0de435345da677
+      internalID: -1661690246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 614
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3bbf0ea0dc217479c3b3629a9f6873
+      internalID: 971450993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a32c3868533d743a3b6a7d07163307
+      internalID: -649216926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33616c3465dd14697b289fe340b690
+      internalID: -743319182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6091fc2825939499f793109d4d1f83
+      internalID: 821384776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ea6300e2460f409e76a9e4507c416
+      internalID: -1318644535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945a5346c096fa4faf01ee96c1ecd55
+      internalID: -1432020421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a27018903ae74aac07e5570ceccae
+      internalID: 1973987397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93300e6947708bf49a052249f1abe46b
+      internalID: 1809534587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_61
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f810ebe3f0e4ee4ca3a7e53f3f266ac
+      internalID: -162055691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_62
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 537
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de62aac8e5188f848a583514ff28f520
+      internalID: -2056423272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7cf1d536ad0849b0bec723485a4cb
+      internalID: -1903702423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258709ac8cde63f4cbf1fe4023dac6fb
+      internalID: -1957471428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010d3df8765a63468af617e2f698cd1
+      internalID: -2138227414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc001f4088bf34091c61e826c2c008
+      internalID: -1256232613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_72
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b92f8f78cd3245be01ea02ca37e4f
+      internalID: 668791478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_73
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a267112bbdf695c4899e94fd05999d35
+      internalID: 1425767753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_74
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1017ab51aba846b654e87805f230b
+      internalID: -2139884935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_75
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d699370b17298e49aefa8c6f69bcfdf
+      internalID: 1721233281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_76
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bbe7fb9e27c24b860085176650cad
+      internalID: -1676247375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_77
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad51bcb202c72243a8ab60a6f6e5a0b
+      internalID: -533845841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_78
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19786de44981c49acb03c8c95e89fc
+      internalID: -1047179428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_79
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 460
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb3f93dab54df4b91fe7132a8400ca
+      internalID: -1052073553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12015224d561754c9d9f80319b1178e
+      internalID: -1646147994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_83
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c656b91ff3ed40a47eb66ac99334d
+      internalID: 1600250962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f54cb6ce8a0e449841e13996577009
+      internalID: 1953302666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ade44678b6e145981844407570ec8
+      internalID: 540590664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_86
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1580f149c75a474d96baff0a091a884
+      internalID: 1868977616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7950f07485ccc449a6fc0c7648c803
+      internalID: 1580362714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_88
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57a827905a608458440937a1f0d849
+      internalID: -1802822428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_89
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4108b767608fb48a57cebdb071cd1e
+      internalID: 571446167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_90
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a909c3a1f1e014fbb1b3e34c0e27d4
+      internalID: 565798340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_91
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41764b531833744a8352e8583c8fc5f
+      internalID: -1879407830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1efb2ef9991a943b62ae33c5677327
+      internalID: -963730347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_93
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 383
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9257440a652d9b4db6e24c6a81265b0
+      internalID: -442854968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6fbca8263cfc42a7725497dbc0f81
+      internalID: -884263812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f087a760a451b48943b2990a07b06c
+      internalID: 1927015604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029fddb8ef42e1f458b47e776ccae252
+      internalID: 136616737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da53e0f30ab4547adf44147efab966
+      internalID: 1091057137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_100
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067fd7d7cf6024488260e0be7989a80
+      internalID: 1001661963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_101
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a3f906cefb3c46a94642f5c36c0d8
+      internalID: 1969338891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_102
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a076788d006a478ab3776c2c848f7
+      internalID: 1291052794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_106
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 306
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3ccf10512f2c646b9a7e423cd8afc5
+      internalID: -607886206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69975f52e420514981295b403a3a4c6
+      internalID: -1338368752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa21e8cbb7603b43bfc7398d5edbb43
+      internalID: -998185851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a561d2075e27e4cb55f42f41dc8ee7
+      internalID: -1825158032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683d179b1129b9c4380c7284312cc1eb
+      internalID: -27216125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_113
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a746f570e1953d4fac724653cd6684a
+      internalID: -1330958374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12456335a7bf0e342a7341cc6d71cc9d
+      internalID: 901551587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_115
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977d37ad4ed1cb4dab36b03085686c0
+      internalID: -306488563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILEMAPHD_118
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 229
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7ce9b609e1964fbfb9634a4d75937
+      internalID: 824665656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TILEMAPHD_0: -1655647085
+      TILEMAPHD_1: -152499006
+      TILEMAPHD_10: 2095424232
+      TILEMAPHD_100: 1001661963
+      TILEMAPHD_101: 1969338891
+      TILEMAPHD_102: 1291052794
+      TILEMAPHD_103: 2143717961
+      TILEMAPHD_104: 841933913
+      TILEMAPHD_105: 1923739063
+      TILEMAPHD_106: -607886206
+      TILEMAPHD_107: 1757928073
+      TILEMAPHD_108: -2104057792
+      TILEMAPHD_109: -1338368752
+      TILEMAPHD_11: 1887455554
+      TILEMAPHD_110: -998185851
+      TILEMAPHD_111: -1825158032
+      TILEMAPHD_112: -27216125
+      TILEMAPHD_113: -1330958374
+      TILEMAPHD_114: 901551587
+      TILEMAPHD_115: -306488563
+      TILEMAPHD_116: 865988987
+      TILEMAPHD_117: 111066285
+      TILEMAPHD_118: 824665656
+      TILEMAPHD_119: -934096822
+      TILEMAPHD_12: -742661540
+      TILEMAPHD_120: 173659089
+      TILEMAPHD_121: -2058363496
+      TILEMAPHD_122: -554898712
+      TILEMAPHD_123: -999919503
+      TILEMAPHD_124: -1690694579
+      TILEMAPHD_125: -283830928
+      TILEMAPHD_126: -1315383649
+      TILEMAPHD_127: 1729208938
+      TILEMAPHD_128: 1725509769
+      TILEMAPHD_129: 604169931
+      TILEMAPHD_13: -1428136012
+      TILEMAPHD_130: -210757009
+      TILEMAPHD_131: -1084872665
+      TILEMAPHD_132: 310158381
+      TILEMAPHD_133: 1699761376
+      TILEMAPHD_134: -1126130967
+      TILEMAPHD_14: 1212693663
+      TILEMAPHD_15: -1473089899
+      TILEMAPHD_16: 1163177932
+      TILEMAPHD_17: 429827669
+      TILEMAPHD_18: -24405668
+      TILEMAPHD_19: 125668892
+      TILEMAPHD_2: -1160814765
+      TILEMAPHD_20: -608372830
+      TILEMAPHD_21: 185061683
+      TILEMAPHD_22: 689181076
+      TILEMAPHD_23: -360479798
+      TILEMAPHD_24: -1145156120
+      TILEMAPHD_25: 1006321170
+      TILEMAPHD_26: 1373184726
+      TILEMAPHD_27: -162002752
+      TILEMAPHD_28: 1369506201
+      TILEMAPHD_29: 1635934148
+      TILEMAPHD_3: -762658376
+      TILEMAPHD_30: -50057036
+      TILEMAPHD_31: 253157503
+      TILEMAPHD_32: -2103224299
+      TILEMAPHD_33: -1240146429
+      TILEMAPHD_34: 427519693
+      TILEMAPHD_35: -1795441745
+      TILEMAPHD_36: -2043195012
+      TILEMAPHD_37: 1319499918
+      TILEMAPHD_38: 1330008139
+      TILEMAPHD_39: -1757964421
+      TILEMAPHD_4: -762335021
+      TILEMAPHD_40: 1992795742
+      TILEMAPHD_41: 628276711
+      TILEMAPHD_42: -192575296
+      TILEMAPHD_43: -655963159
+      TILEMAPHD_44: -213318632
+      TILEMAPHD_45: -1714555181
+      TILEMAPHD_46: 1737652523
+      TILEMAPHD_47: -1661690246
+      TILEMAPHD_48: 971450993
+      TILEMAPHD_49: 209101948
+      TILEMAPHD_5: 1950089586
+      TILEMAPHD_50: -284222764
+      TILEMAPHD_51: -385077456
+      TILEMAPHD_52: -1044001828
+      TILEMAPHD_53: 170798140
+      TILEMAPHD_54: -649216926
+      TILEMAPHD_55: -743319182
+      TILEMAPHD_56: 821384776
+      TILEMAPHD_57: -1318644535
+      TILEMAPHD_58: -1432020421
+      TILEMAPHD_59: 1973987397
+      TILEMAPHD_6: 1162416049
+      TILEMAPHD_60: 1809534587
+      TILEMAPHD_61: -162055691
+      TILEMAPHD_62: -2056423272
+      TILEMAPHD_63: -1663943770
+      TILEMAPHD_64: -831535384
+      TILEMAPHD_65: 1962945644
+      TILEMAPHD_66: -754004897
+      TILEMAPHD_67: 907012355
+      TILEMAPHD_68: -1903702423
+      TILEMAPHD_69: -1957471428
+      TILEMAPHD_7: 1720859597
+      TILEMAPHD_70: -2138227414
+      TILEMAPHD_71: -1256232613
+      TILEMAPHD_72: 668791478
+      TILEMAPHD_73: 1425767753
+      TILEMAPHD_74: -2139884935
+      TILEMAPHD_75: 1721233281
+      TILEMAPHD_76: -1676247375
+      TILEMAPHD_77: -533845841
+      TILEMAPHD_78: -1047179428
+      TILEMAPHD_79: -1052073553
+      TILEMAPHD_8: 1265237062
+      TILEMAPHD_80: 1184519050
+      TILEMAPHD_81: -2141572869
+      TILEMAPHD_82: -1646147994
+      TILEMAPHD_83: 1600250962
+      TILEMAPHD_84: 1953302666
+      TILEMAPHD_85: 540590664
+      TILEMAPHD_86: 1868977616
+      TILEMAPHD_87: 1580362714
+      TILEMAPHD_88: -1802822428
+      TILEMAPHD_89: 571446167
+      TILEMAPHD_9: -1882891831
+      TILEMAPHD_90: 565798340
+      TILEMAPHD_91: -1879407830
+      TILEMAPHD_92: -963730347
+      TILEMAPHD_93: -442854968
+      TILEMAPHD_94: 1536878212
+      TILEMAPHD_95: -228927184
+      TILEMAPHD_96: -884263812
+      TILEMAPHD_97: 1927015604
+      TILEMAPHD_98: 136616737
+      TILEMAPHD_99: 1091057137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

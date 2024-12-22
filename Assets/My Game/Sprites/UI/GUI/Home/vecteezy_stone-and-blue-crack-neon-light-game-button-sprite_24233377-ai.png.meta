@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 77113d1f3be38464f9510535097a034c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 671
+        width: 767
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde5d57e1d0d094c8b0a9a5963e9b53
+      internalID: 399684364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_1
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 667
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a67b1a11480b40bfc776320dab619
+      internalID: 1499092382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_2
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 655
+        width: 236
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397a7f35b4e03446a8a893e4a691f1b
+      internalID: -249684914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_3
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 669
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ba1d7bfda1924297e5b9f82e8e4db
+      internalID: -694603574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_4
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 667
+        width: 182
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80948e1bb29ea5e42ab5892e675c0aa4
+      internalID: -2027009417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_5
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 667
+        width: 453
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ccb58a133c6d440972e2b4b519fcaa
+      internalID: 1475728456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_6
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 669
+        width: 1500
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a58180a6ac4db40889116713b57384
+      internalID: 708894318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 396
+        width: 767
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1298976b6bb2ca46957ce8e74797e66
+      internalID: -386793388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 390
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7bd0eaaa4d3e498370251625a8fad
+      internalID: -1278362271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_9
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 378
+        width: 236
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919241519d78bf44b6e42c439e5bf4c
+      internalID: 1200285495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_10
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 392
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0affc58217e159745b426ad0f829530e
+      internalID: -746319225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_11
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 392
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b23abde2f239438e8248305c70184
+      internalID: 1548675761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_12
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 388
+        width: 453
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06bae78b5e819444a35e4a8096e2858
+      internalID: -1411571267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_13
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 388
+        width: 1500
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df610d234c9424fa3648eec3e9c8bc
+      internalID: 1205172364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 120
+        width: 783
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9e4238719327489565557889bb833
+      internalID: 1902394311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_15
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 112
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8782f44886f9c9c42abaa0fce0948ffd
+      internalID: -265892380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 101
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f991dd821d38d940b94e128d819b57e
+      internalID: -115805275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_17
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 114
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23632a340b8fe41ac7c205ca46d4ae
+      internalID: 196988158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_18
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 112
+        width: 182
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6d20c1bbff1f4896153a0e0114adf
+      internalID: -38715905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_19
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 110
+        width: 453
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511991f7cfcfc0d4baeab6afb9eb6624
+      internalID: -1839329887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_20
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 110
+        width: 1500
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c88d65d875294abc2c03c58f6bd4b
+      internalID: 29726460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_0: 399684364
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_1: 1499092382
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_10: -746319225
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_11: 1548675761
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_12: -1411571267
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_13: 1205172364
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_14: 1902394311
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_15: -265892380
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_16: -115805275
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_17: 196988158
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_18: -38715905
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_19: -1839329887
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_2: -249684914
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_20: 29726460
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_3: -694603574
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_4: -2027009417
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_5: 1475728456
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_6: 708894318
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_7: -386793388
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_8: -1278362271
+      vecteezy_stone-and-blue-crack-neon-light-game-button-sprite_24233377-ai_9: 1200285495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
